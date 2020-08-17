@@ -1,4 +1,4 @@
-llibrary(tidycensus)
+library(tidycensus)
 census_api_key("90b94953d2f24e81e890229e0128174f5ba80d3f")
 library(FedData)
 library(tidyverse)
